@@ -36,4 +36,4 @@
 <br>
 
 ### 구현 화면
-<img src='https://github.com/user-attachments/assets/3f1ace07-409a-462b-b42f-43ff55318e80' width="70%" height="70%">
+<img src='https://github.com/user-attachments/assets/3f1ace07-409a-462b-b42f-43ff55318e80' width="60%" height="60%">
