@@ -1,10 +1,14 @@
 # 로또 번호 생성기 과제 
-## 과제 목록
+## 과제 목록과 요구 사항
+
+**과제 목록**
 * 프로젝트 파일 구조 설정
 * HTML 파일 완성하기
 * CSS 파일 완성하기
 * `generateLottoNumbers` 함수 완성하기
 * 추가 과제 (Optional)
+
+<br><br>
 
 ### `generateLottoNumbers` 함수 조건
 1. **빈 배열 만들기**: 로또 번호를 저장할 빈 배열을 만듭니다.
@@ -17,6 +21,7 @@
 * 번호를 오름차순으로 정렬해서 출력하기
 * 이전 결과를 저장하고, 새 결과와 비교하기
 * 결과를 더 멋지게 스타일링하기
+
 <br><br>
 
 ## 구현
@@ -26,4 +31,4 @@
 <br>
 
 ### 구현 화면
-<img src='https://github.com/user-attachments/assets/3f1ace07-409a-462b-b42f-43ff55318e80' width='80%' height='80%'>
+<img src='https://github.com/user-attachments/assets/3f1ace07-409a-462b-b42f-43ff55318e80' width='70%' height='70%'>
