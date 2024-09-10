@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+/* 여기에 container 클래스에 대한 스타일을 추가하세요*/
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px #c5c5c5;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* 여기에 numbers ID에 대한 스타일을 추가하세요*/
+#numbers{
+    margin-top: 20px;
+    height: 30px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.latestResult{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 5px 20px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px #c5c5c5;
+}
+.latestResult h1 {
+    margin: 20px;
+    height: 40px;
+    font-size: 25px;
+}
+.latestResultCon{
+    margin: 20px;
+    height: 40px;
+}
+#latestNumbers{
+    width: 200px;
+    font-weight: bold;
+    font-size: 20px;
+}
